@@ -177,20 +177,6 @@
 
 ---
 
-## 📘 Day-wise Learning Notes
-### 🗓️ Day 1: Basic Navigation
-- Practiced `pwd`, `cd`, `ls`, `mkdir`, `touch`
-- Explored hidden files and directory paths
-- Created sample folders in `~/lab/day1`
-
-### 🗓️ Day 2: File Management
-- Copied, moved, and deleted sample files
-- Used `cat`, `less`, `head`, and `tail` to inspect data
-- Learned `find` vs `locate`
-
-*(Add daily logs as you progress!)*
-
----
 
 ### 🔗 Useful Links
 - [GNU Coreutils Manual](https://www.gnu.org/software/coreutils/manual/coreutils.html)
